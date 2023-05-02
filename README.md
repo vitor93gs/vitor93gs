@@ -1,5 +1,10 @@
 # 💫 About Me:
-Im currently working in a company called O&M solar that works with solar systems implementation and control, im currently learning golang, i feel very attracted to the whole data and AI movement and i love sports(surf,skate,basketball), i also have 2 dogs (corder collies) and a fiancee 
+
+I'm currently employed at O&M Solar, where I work on implementing and controlling solar systems. One of my ongoing pursuits is learning Golang, which has been an exciting challenge so far. I'm drawn to the fascinating world of data and AI and am always eager to expand my knowledge in this field.
+
+When I'm not at work or learning something new, you can often find me enjoying my favorite sports. I'm a big fan of surfing, skateboarding, and basketball, and I make it a priority to stay active and healthy. Additionally, I'm the proud owner of two lively and lovable Border Collies, who keep me on my toes and always bring a smile to my face.
+
+Above all else, what truly fills my heart with joy is my fiancée. She's the love of my life and my partner in everything. We enjoy spending time together, whether it's exploring new places, trying new restaurants, or simply hanging out at home. She's my rock and my biggest supporter, and I'm grateful every day to have her in my life.
 
 
 ## 🌐 Socials:
