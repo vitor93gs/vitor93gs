@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently employed at O&M Solar, where I work on implementing and controlling solar systems. One of my ongoing pursuits is learning Golang, which has been an exciting challenge so far. I'm drawn to the fascinating world of data and AI and am always eager to expand my knowledge in this field.
+I'm currently employed at O&M Solar, where we work on implementing and controlling solar systems. One of my ongoing pursuits is learning Golang, which has been an exciting challenge so far. I'm drawn to the fascinating world of data and AI and am always eager to expand my knowledge in this field.
 
 When I'm not at work or learning something new, you can often find me enjoying my favorite sports. I'm a big fan of surfing, skateboarding, and basketball, and I make it a priority to stay active and healthy. Additionally, I'm the proud owner of two lively and lovable Border Collies, who keep me on my toes and always bring a smile to my face.
 
