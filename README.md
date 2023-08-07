@@ -2,7 +2,7 @@
 
 I'm currently employed at O&M Solar, where we work on implementing and controlling solar systems. One of my ongoing pursuits is learning Data Science and Python, which has been an exciting challenge so far. I'm drawn to the fascinating world of data and AI and am always eager to expand my knowledge in this field.
 
-When I'm not at work or learning something new, you can often find me enjoying my favorite sports. I'm a big fan of surfing, skateboarding, and basketball, and I make it a priority to stay active and healthy. Additionally, I'm the proud owner of two lively and lovable Border Collies, who keep me on my toes and always bring a smile to my face.
+When I'm not at work or learning something new, you can often find me enjoying my favorite sports. I'm a big fan of surfing, skateboarding, and basketball, and I make it a priority to stay active and healthy. Additionally, I'm the proud owner of two lively and lovable dogs 🐶, who keep me on my toes and always bring a smile to my face.
 
 Above all else, what truly fills my heart with joy is my fiancée. She's the love of my life and my partner in everything. We enjoy spending time together, whether it's exploring new places, trying new restaurants, or simply hanging out at home. She's my rock and my biggest supporter, and I'm grateful every day to have her in my life.
 
